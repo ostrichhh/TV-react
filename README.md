@@ -1,3 +1,36 @@
+## 📺 Digital TV System – React Project
+
+A simple Digital TV Simulation App built using React that demonstrates state management, component communication, and event handling.
+
+The app mimics a real TV setup where a remote control interacts with a screen display, showing either a working channel or a "No Signal" screen depending on the button pressed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This Project is for academic purposes. Another day laerning github and making things greener green.
 
 

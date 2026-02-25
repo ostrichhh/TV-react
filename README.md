@@ -1,3 +1,134 @@
+# 📺 Digital TV System – React Project
+
+A simple Digital TV Simulation App built using React that demonstrates state management, component communication, and event handling.
+
+The app mimics a real TV setup where a remote control interacts with a screen display, showing either a working channel or a "No Signal" screen depending on the button pressed.
+
+## 🎯 Project Objective
+
+This project focuses on understanding:
+
+React State management
+
+Props communication between components
+
+Component-based architecture
+
+Handling user interactions
+
+## 🧩 How It Works
+
+The system simulates a digital TV with three main parts:
+
+## 🖥️ TV Screen
+
+Displays the current channel or "No Signal".
+
+## 🎮 Remote Control
+
+Contains buttons (0–9) that change the TV display when clicked.
+
+## 🧠 App Controller
+
+Manages the state and logic of the system.
+
+## 📂 Project Structure
+
+Inside the src folder, the project is organized into three files:
+
+src/
+│── App.jsx      → Main Hub (State & Logic)
+│── TV.jsx       → Display Screen
+│── Remote.jsx   → Remote Control Buttons
+
+## ⚙️ System Rules
+🔢 Remote Buttons
+
+The remote contains 10 buttons numbered:
+0 – 9
+
+## 📡 Channel Logic
+
+6 buttons display a real channel such as:
+
+Movie Channel
+
+Sports Channel
+
+News Channel
+
+Music Channel
+
+Kids Channel
+
+Documentary Channel
+
+4 buttons display:
+❌ "No Signal"
+
+The mapping of working vs. non-working channels is predefined in the app logic.
+
+## 🚀 Features
+
+Interactive remote control simulation
+
+Dynamic TV screen updates
+
+State-driven UI rendering
+
+Clean component separation
+
+Beginner-friendly React project
+
+🛠️ Technologies Used
+
+React.js
+
+JavaScript (ES6+)
+
+CSS
+
+# ▶️ How to Run the Project
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+or (if using Create React App):
+
+npm start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This Project is for academic purposes. Another day laerning github and making things greener green.
 
 

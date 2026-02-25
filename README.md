@@ -88,6 +88,20 @@ JavaScript (ES6+)
 
 CSS
 
+# ▶️ How to Run the Project
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+or (if using Create React App):
+
+npm start
+
 
 
 

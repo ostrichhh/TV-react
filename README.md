@@ -4,7 +4,7 @@ A simple Digital TV Simulation App built using React that demonstrates state man
 
 The app mimics a real TV setup where a remote control interacts with a screen display, showing either a working channel or a "No Signal" screen depending on the button pressed.
 
-🎯 Project Objective
+# 🎯 Project Objective
 
 This project focuses on understanding:
 
@@ -16,23 +16,23 @@ Component-based architecture
 
 Handling user interactions
 
-🧩 How It Works
+# 🧩 How It Works
 
 The system simulates a digital TV with three main parts:
 
-🖥️ TV Screen
+#🖥️ TV Screen
 
 Displays the current channel or "No Signal".
 
-🎮 Remote Control
+# 🎮 Remote Control
 
 Contains buttons (0–9) that change the TV display when clicked.
 
-🧠 App Controller
+# 🧠 App Controller
 
 Manages the state and logic of the system.
 
-📂 Project Structure
+## 📂 Project Structure
 
 Inside the src folder, the project is organized into three files:
 

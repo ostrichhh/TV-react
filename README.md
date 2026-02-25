@@ -32,6 +32,15 @@ Contains buttons (0–9) that change the TV display when clicked.
 
 Manages the state and logic of the system.
 
+📂 Project Structure
+
+Inside the src folder, the project is organized into three files:
+
+src/
+│── App.jsx      → Main Hub (State & Logic)
+│── TV.jsx       → Display Screen
+│── Remote.jsx   → Remote Control Buttons
+
 
 
 

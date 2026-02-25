@@ -16,6 +16,22 @@ Component-based architecture
 
 Handling user interactions
 
+🧩 How It Works
+
+The system simulates a digital TV with three main parts:
+
+🖥️ TV Screen
+
+Displays the current channel or "No Signal".
+
+🎮 Remote Control
+
+Contains buttons (0–9) that change the TV display when clicked.
+
+🧠 App Controller
+
+Manages the state and logic of the system.
+
 
 
 

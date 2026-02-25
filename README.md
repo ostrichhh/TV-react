@@ -1,10 +1,10 @@
-## 📺 Digital TV System – React Project
+# 📺 Digital TV System – React Project
 
 A simple Digital TV Simulation App built using React that demonstrates state management, component communication, and event handling.
 
 The app mimics a real TV setup where a remote control interacts with a screen display, showing either a working channel or a "No Signal" screen depending on the button pressed.
 
-# 🎯 Project Objective
+## 🎯 Project Objective
 
 This project focuses on understanding:
 
@@ -16,19 +16,19 @@ Component-based architecture
 
 Handling user interactions
 
-# 🧩 How It Works
+## 🧩 How It Works
 
 The system simulates a digital TV with three main parts:
 
-#🖥️ TV Screen
+## 🖥️ TV Screen
 
 Displays the current channel or "No Signal".
 
-# 🎮 Remote Control
+## 🎮 Remote Control
 
 Contains buttons (0–9) that change the TV display when clicked.
 
-# 🧠 App Controller
+## 🧠 App Controller
 
 Manages the state and logic of the system.
 
@@ -40,6 +40,53 @@ src/
 │── App.jsx      → Main Hub (State & Logic)
 │── TV.jsx       → Display Screen
 │── Remote.jsx   → Remote Control Buttons
+
+## ⚙️ System Rules
+🔢 Remote Buttons
+
+The remote contains 10 buttons numbered:
+0 – 9
+
+## 📡 Channel Logic
+
+6 buttons display a real channel such as:
+
+Movie Channel
+
+Sports Channel
+
+News Channel
+
+Music Channel
+
+Kids Channel
+
+Documentary Channel
+
+4 buttons display:
+❌ "No Signal"
+
+The mapping of working vs. non-working channels is predefined in the app logic.
+
+## 🚀 Features
+
+Interactive remote control simulation
+
+Dynamic TV screen updates
+
+State-driven UI rendering
+
+Clean component separation
+
+Beginner-friendly React project
+
+🛠️ Technologies Used
+
+React.js
+
+JavaScript (ES6+)
+
+CSS
 
 
 

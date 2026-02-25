@@ -4,6 +4,18 @@ A simple Digital TV Simulation App built using React that demonstrates state man
 
 The app mimics a real TV setup where a remote control interacts with a screen display, showing either a working channel or a "No Signal" screen depending on the button pressed.
 
+🎯 Project Objective
+
+This project focuses on understanding:
+
+React State management
+
+Props communication between components
+
+Component-based architecture
+
+Handling user interactions
+
 
 
 
